@@ -1,0 +1,7 @@
+<h1><%= @topic.title %></h1>
+  <h5>Bookmarks:</h5>
+  <% @topic.bookmarks.each do |bookmark| %>
+    <ul>
+      <li><%=link_to bookmark.url %></li>
+    </ul>
+  <% end %>
