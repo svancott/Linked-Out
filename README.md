@@ -6,7 +6,7 @@ Are you like me and have way too many bookmarks? You love finding great material
 
 *LinkedOut* helps you organize your overabundance of bookmarks so you never lose track of those potentially life changing resources again! Better yet, you can easily share them with friends and coworkers!
 
-Give **LinkedOut** a shot a cure your bookmarking troubles forever.
+Give __**LinkedOut**__ and shot a cure your bookmarking troubles forever.
 
 # About me
 
